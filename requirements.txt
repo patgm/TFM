@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+glob
+os
+shapely
+geojson
+geopandas
+wkt
+json
